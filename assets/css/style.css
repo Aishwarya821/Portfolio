@@ -608,6 +608,9 @@ main {
    
    
 }
+  .home-section .bannerimg {
+  width: 90% !important;
+}
 }
 .feature-box-01 p {
   margin: 0;
