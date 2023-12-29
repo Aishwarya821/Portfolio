@@ -466,6 +466,9 @@ main {
   .home-section .bannerimg {
     margin-top: 0px !important;
   }
+   #cprogram{
+    width: 50px !important;
+  }
 }
 
 .home-section .home-intro h1 {
